@@ -1,0 +1,3 @@
+C:/Users/Ruller/Desktop/SerialPlotter/build/CMakeFiles/MyOpenGLProject.dir
+C:/Users/Ruller/Desktop/SerialPlotter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ruller/Desktop/SerialPlotter/build/CMakeFiles/ZERO_CHECK.dir
